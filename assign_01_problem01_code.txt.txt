@@ -1,0 +1,12 @@
+//Ahmed Ahmed Darweesh
+
+//20216730
+
+#include <iostream>
+  using namespace std;
+
+int main() {
+string str;
+cin>>str;
+cout<<"Hello, "<<str;
+}
